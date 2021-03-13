@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Carlos Quesada
 - 👀 I’m interested in Artificial Intelligence, Data Science, and R&D
 - 📫 You can reach me at carlos.quesada@deusto.es
-- 💻 Check my blog! [www.quesadagranja.com](www.quesadagranja.com)
 
 <!---
 quesadagranja/quesadagranja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
