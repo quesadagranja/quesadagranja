@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Carlos Quesada
-- 👀 I’m interested in Artificial Intelligence, Data Science, and R&D
-- 📫 You can reach me at carlos.quesada@deusto.es
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, Data Science, and Numerical Methods.
+- 📫 You can reach me at c.quesada@ua.es
 - 💻 I have a blog you should check: www.quesadagranja.com
 
 <!---
