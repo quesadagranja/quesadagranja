@@ -1,4 +1,4 @@
-# Hi, I'm Carlos Quesada 👋
+# Hi, I'm Carlos Quesada-Granja 👋
 
 I'm an **Assistant Professor at the University of Alicante**, working in **Artificial Intelligence, Machine Learning, Data Science, and Time Series Analysis**.
 
