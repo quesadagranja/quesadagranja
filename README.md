@@ -16,7 +16,7 @@ My research focuses on developing and applying machine learning methods for the 
 
 ## Current work
 
-I'm currently working on **Calendar-SPCA**, a structured sparse principal component analysis method designed to extract interpretable patterns from multi-periodic time series.
+I'm currently working on **[Calendar-SPCA](https://arxiv.org/abs/2609.06060)**, a structured sparse principal component analysis method designed to extract interpretable patterns from multi-periodic time series.
 
 I also work on large-scale smart-meter datasets, electricity-consumption profiling, and machine-learning methods for energy applications.
 
